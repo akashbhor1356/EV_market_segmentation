@@ -6,7 +6,7 @@
 <p align="center"> 
 <img src="images/all.jpg" alt="all.jpg" height="382px">
 </p>
-<h3 align="center"> Feynn Labs verified Project 
+<h3 align="center"> 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
